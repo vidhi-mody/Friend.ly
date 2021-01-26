@@ -140,11 +140,11 @@ Distributed under the Apache 2.0 License. See `LICENSE.md` for more information.
 
 ## Contact
 
-- Soham Parekh <[@AlQaholic007](https://github.com/AlQaholic007), [mail@sohamp.dev](mail@sohamp.dev)>
+- Soham Parekh <[@coolemac](https://github.com/coolemac), [mail@sohamp.dev](mail@sohamp.dev)>
 - Vidhi Mody <[@vidhi-mody](https://github.com/vidhi-mody),  vidhimody6@gmail.com>
 - Vrushti Mody <[@vrushti-mody](https://github.com/vrushti-mody),  vrushtimody6@gmail.com>
 
-Project Link: [https://github.com/AlQaholic007/Friend.ly](https://github.com/AlQaholic007/Friend.ly)
+Project Link: [https://github.com/vidhi-mody/Friend.ly](https://github.com/vidhi-mody/Friend.ly)
 
 [contributors-shield]: https://img.shields.io/github/contributors/AlQaholic007/Friend.ly?style=flat-square
 [contributors-url]: https://github.com/AlQaholic007/Friend.ly/graphs/contributors
